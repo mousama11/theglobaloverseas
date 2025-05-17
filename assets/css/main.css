@@ -2742,7 +2742,7 @@ body.body {
   color: var(--vtc-text-text-white-text-1);
   text-transform: capitalize;
   padding: 18px 22px 18px 22px;
-  background-color: var(--vtc-bg-main-bg-1);
+  background-color: var(--vtc-bg-main-bg-7);
   overflow: hidden;
   z-index: 1;
   border-radius: 4px;
